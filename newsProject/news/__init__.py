@@ -1,0 +1,2 @@
+class HomePageView:
+    pass
