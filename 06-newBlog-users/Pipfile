@@ -9,6 +9,7 @@ django-crispy-forms = "*"
 pillow = "*"
 bootstrap4 = "*"
 django-ckeditor = "*"
+environs = {extras = ["django"], version = "==8.0.0"}
 
 [dev-packages]
 
